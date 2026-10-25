@@ -1,0 +1,6 @@
+{
+  "name": "Lavandería Naty - Servicio a Domicilio y Rastreo",
+  "description": "Lavandería Naty en Reynosa, Tamaulipas (Playa Paamul 1781, Col. Ventura). Servicio de lavado y secado a domicilio por medida de canasto chico, cobertores y sábanas con rastreo en tiempo real.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
